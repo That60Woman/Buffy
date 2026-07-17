@@ -14,6 +14,32 @@ Buffy asks:
 
 > "Given everything that is true about my life, what time is actually available?"
 
+## What is Buffy?
+
+Buffy is a **reality-based scheduling engine**.
+
+Traditional calendars answer the question:
+
+> **"When am I free?"**
+
+Buffy answers a different question:
+
+> **"Given everything that is true about my life, what remains possible?"**
+
+Buffy doesn't manage your calendar.
+
+**Buffy manages the relationship between your calendar and reality.**
+
+Rules don't directly create schedules. They create **constraints**. Appointments, travel, biology, commitments, preferences, and physical reality all generate constraints. Buffy combines those constraints to determine what is genuinely possible.
+
+Instead of asking *"Where can I fit another meeting?"*, Buffy first asks:
+
+> **"What is already true?"**
+
+Only then does it determine what time remains available.
+
+This simple shift changes everything. Rather than optimizing a calendar, Buffy protects reality.
+
 ## Why Buffy?
 
 Most calendar systems are event databases. They remember what you entered.
